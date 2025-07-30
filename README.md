@@ -20,7 +20,6 @@ SkinLogic is a mobile application built with Flutter that provides immediate, on
 The current model is trained to identify 9 common skin conditions:
 * Actinic Keratosis
 * Atopic Dermatitis
-* Basal Cell Carcinoma
 * Benign Keratosis
 * Dermatofibroma
 * Melanocytic Nevus
