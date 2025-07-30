@@ -1,8 +1,8 @@
-# SkinLogic AI: On-Device Skin Condition Analyzer
+# SkinLogic: On-Device Skin Condition Analyzer
 
 ## Overview
 
-SkinLogic AI is a mobile application built with Flutter that provides immediate, on-device analysis of various skin conditions using a trained Machine Learning model. This project demonstrates the capability of integrating deep learning models directly into mobile applications for real-time inference, offering quick insights into potential skin issues.
+SkinLogic is a mobile application built with Flutter that provides immediate, on-device analysis of various skin conditions using a trained Machine Learning model. This project demonstrates the capability of integrating deep learning models directly into mobile applications for real-time inference, offering quick insights into potential skin issues.
 
 **Disclaimer:** This application is for informational and educational purposes only and is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always consult with a qualified healthcare professional for any health concerns.
 
