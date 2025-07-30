@@ -101,5 +101,3 @@ This project is licensed under the [MIT License](https://github.com/MarsadMaqsoo
 
 * The Flutter and TensorFlow communities for their invaluable resources and tools.
 * [Riya Eliza Shaju](https://www.kaggle.com/riyaelizashaju) for providing the [Skin Disease Classification Image Dataset](https://www.kaggle.com/datasets/riyaelizashaju/skin-disease-classification-image-dataset) on Kaggle.
-
----
