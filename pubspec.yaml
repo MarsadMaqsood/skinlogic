@@ -1,0 +1,42 @@
+name: skinlogic
+description: "A Flutter-based mobile application demonstrating on-device machine learning inference for classifying common skin conditions using TensorFlow Lite."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  tflite_flutter:
+    git:
+      url: https://github.com/MarsadMaqsood/flutter-tflite
+      ref: 247e653da68af36640677c2eb6337ba2dbae6f7e
+
+  image_picker: ^1.1.2
+  image: ^4.5.4
+  permission_handler: ^12.0.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter_launcher_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/png/logo.png"
+  min_sdk_android: 21
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/model/
+
